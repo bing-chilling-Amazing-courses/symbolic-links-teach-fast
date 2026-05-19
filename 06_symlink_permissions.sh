@@ -1,5 +1,4 @@
 #!/bin/bash
-set -e
 
 ln -sf /etc/hosts /tmp/trash.hosts_link.txt
 

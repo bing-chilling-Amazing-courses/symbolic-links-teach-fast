@@ -20,6 +20,8 @@ Creates a symbolic link to a directory and accesses files through the linked fol
 ### `05_check_symlink.sh`
 Checks whether a file is a symbolic link using standard Linux file tests.
 
+### `06_symlink_permissions.sh`
+Shows that a symlink can point to a protected file, but access still depends on the permissions of the target file.
 ---
 
 ## Requirements
